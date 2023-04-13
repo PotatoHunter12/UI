@@ -13,10 +13,6 @@ import java.util.ResourceBundle;
 
 public class HelloController implements Initializable {
     @FXML
-    private VBox vbox;
-    @FXML
-    private AnchorPane a1;
-    @FXML
     private ComboBox znamka,gorivo,vrsta,zavarovanje,kasko;
     @FXML
     private ColorPicker barva;
@@ -28,9 +24,13 @@ public class HelloController implements Initializable {
     private CheckBox mv,z1,z2,z3,z4,z5,z6,z7,z8,z9;
     @FXML
     private TextField ime,priimek,naslov,kraj,posta,krajReg,registrska,oznaka,moc,prost;
+    private Object[] stvari = {znamka,gorivo,vrsta,zavarovanje,kasko,ime,priimek,naslov,kraj,posta,krajReg,registrska,oznaka,moc,prost,rojstni,datum};
     @FXML
     private void onSave(){
-
+        System.out.println("banana");
+        for (Object stvar: stvari) {
+            System.out.println(stvar);
+        }
     }
     @FXML
     private void onDelete(){
@@ -38,6 +38,6 @@ public class HelloController implements Initializable {
     }
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
-
+        
     }
 }
