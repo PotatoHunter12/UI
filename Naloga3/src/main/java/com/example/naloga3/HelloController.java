@@ -1,10 +1,21 @@
 package com.example.naloga3;
 
 import javafx.fxml.FXML;
+import javafx.fxml.Initializable;
 import javafx.scene.control.*;
+
+import javafx.scene.layout.AnchorPane;
+import javafx.scene.layout.VBox;
 import org.w3c.dom.Text;
 
-public class HelloController {
+import java.net.URL;
+import java.util.ResourceBundle;
+
+public class HelloController implements Initializable {
+    @FXML
+    private VBox vbox;
+    @FXML
+    private AnchorPane a1;
     @FXML
     private ComboBox znamka,gorivo,vrsta,zavarovanje,kasko;
     @FXML
@@ -23,6 +34,10 @@ public class HelloController {
     }
     @FXML
     private void onDelete(){
+
+    }
+    @Override
+    public void initialize(URL url, ResourceBundle resourceBundle) {
 
     }
 }
