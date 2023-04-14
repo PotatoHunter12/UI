@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9112d52-7e17-45b9-9326-d20563b4d7b9" name="Changes" comment="" />
+    <list default="true" id="e9112d52-7e17-45b9-9326-d20563b4d7b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/naloga3/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/naloga3/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/naloga3/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/naloga3/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/naloga3/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/naloga3/hello-view.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +62,7 @@
       <workItem from="1681298995062" duration="4276000" />
       <workItem from="1681379750674" duration="8887000" />
       <workItem from="1681396173535" duration="4488000" />
+      <workItem from="1681419143741" duration="12052000" />
     </task>
     <servers />
   </component>
