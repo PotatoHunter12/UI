@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9112d52-7e17-45b9-9326-d20563b4d7b9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Naloga4/src/main/java/com/example/naloga4/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Naloga4/src/main/java/com/example/naloga4/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Naloga4/src/main/resources/com/example/naloga4/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Naloga4/src/main/resources/com/example/naloga4/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,13 +18,6 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="2O9ERtjnkN0Uwog3q1wgkTeFUzz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
